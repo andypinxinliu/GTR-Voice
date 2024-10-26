@@ -19,7 +19,7 @@
     <br>
     </br>
         <a href="https://arxiv.org/pdf/2406.10514v1">
-        <img src='https://img.shields.io/badge/arXiv-red' alt='Paper Arxiv'></a> &nbsp; &nbsp; 
+        <img src='[https://img.shields.io/badge/arXiv-red](https://camo.githubusercontent.com/d8617043c5be969759376b28adaf0620c3360f34567782a825b13e9945717a7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f61725869762d50617065722d253343434f4c4f522533452e737667)' alt='Paper Arxiv'></a> &nbsp; &nbsp; 
         <a href='https://demo.gtr-voice.com/'>
         <img src='https://img.shields.io/badge/Project_Page-green' alt='Demo'></a> &nbsp;&nbsp;
 
