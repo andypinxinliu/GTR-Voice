@@ -97,7 +97,7 @@ Our code follows several excellent repositories. We appreciate them for making t
 * [FastPitch](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch)
 
 
-## ✏️ Citing
+## ✏️ Citation
 If you find our work useful, please consider citing:
 ```BibTeX
 @inproceedings{li2024gtr,
