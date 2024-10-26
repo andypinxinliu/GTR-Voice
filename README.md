@@ -2,22 +2,19 @@
 
   <h2 align="center">[Interspeech'24] GTR-Voice: Articulatory Phonetics Informed Controllable Expressive Speech Synthesis </h2>
   <p align="center">
-    <strong>Pinxin Liu</strong></a><sup>1</sup>
+    <strong>Zehua Kcriss Li</strong></a><sup>1</sup>
     · 
-    <strong>Pengfei Zhang</strong></a><sup>2</sup>
+    <strong>Meiying Melissa Chen</strong></a><sup>1</sup>
     · 
-    <strong>Hyeongwoo Kim</strong></a><sup>4</sup>
+    <strong>Yi Zhong</strong></a><sup>1</sup>
     ·
-    <strong>Pablo Garrido</strong></a><sup>3</sup>
+    <strong>Pinxin Liu</strong></a><sup>2</sup>
     ·
-    <strong>Ari Shapiro</strong></a><sup>3</sup>
+    <strong>Zhiyao Duan</strong></a><sup>1</sup>
     ·
-    <br><strong>Kyle Olszewski</strong></a><sup>3</sup>
-    ·  
     <br>
-    <sup>1</sup>University of Rochester  &nbsp;&nbsp;&nbsp; <sup>2</sup>University of California, Irvine
+    <sup>1</sup>Department of Electrical and Computer Engineering, University of Rochester  &nbsp;&nbsp;&nbsp; <sup>2</sup>Department of Computer Science, University of Rochester
     <br>
-    <sup>3</sup>Flawless AI   &nbsp;&nbsp;&nbsp; <sup>4</sup>Imperial College London
     <br>
     </br>
 
@@ -26,11 +23,6 @@
 <div align="center">
   <img src="./assets/teaser.jpg" alt="Realistic Gesture"></a>
 </div>
-
-## 📣 News
-* **[2024.10.07]** Release training and inference code with instructions to preprocess the [PATS](https://chahuja.com/pats/download.html) dataset.
-
-* **[2024.10.12]** Release paper.
 
 ## 🗒 TODOs
 - [x] Release the Dataset.
@@ -49,15 +41,6 @@ conda activate gtr
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
-
-We test our code on NVIDIA A10, NVIDIA A100, NVIDIA A6000.
-
-## ⭕ Quick Start
-I have already provided the pretrained weights in the ```inference/ckpt``` folder. 
-```image-gen5.tar.pth``` is the pretrained weights for the image-warping and image-refinement. 
-```train-300.pt``` is the pretrained weights for the mask gesture generator. ```train-500.pt``` is the pretrained weights for residual gesture generator.
-
-Download [WavLM Large](https://github.com/microsoft/unilm/tree/master/wavlm) model and put it into the ```inference/data/wavlm``` folder.
 
 Now, get started with the following code:
 
