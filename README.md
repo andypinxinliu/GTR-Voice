@@ -18,20 +18,22 @@
     <sup>2</sup>Department of Computer Science, University of Rochester
     <br>
     </br>
+        <a href="https://arxiv.org/pdf/2406.10514v1">
+        <img src='https://img.shields.io/badge/arXiv-red' alt='Paper Arxiv'></a> &nbsp; &nbsp; 
+        <a href='https://demo.gtr-voice.com/'>
+        <img src='https://img.shields.io/badge/Project_Page-green' alt='Demo'></a> &nbsp;&nbsp;
 
   </p>
     </p>
 <div align="center">
-  <img src="./assets/teaser.jpg" alt="Realistic Gesture"></a>
+  <img src="./assets/teaser.jpg" alt="GTR-Voice"></a>
 </div>
 
 ## 🗒 TODOs
 - [x] Release the Dataset.
 - [x] Build the Github Page.
-- [x] Release pretrained weights.
-- [x] Release training code.
-- [x] Release code about evaluation metrics.
-- [ ] Release the presentation video.
+- [ ] Release pretrained weights.
+- [ ] Release training code.
 
 ## ⚒️ Environment
 We recommend a python version ```>=3.9``` and cuda version ```=11.8```. It's possible to have other compatible version.
