@@ -13,8 +13,9 @@
     <strong>Zhiyao Duan</strong></a><sup>1</sup>
     ·
     <br>
-    <sup>1</sup>Department of Electrical and Computer Engineering, University of Rochester  &nbsp;&nbsp;&nbsp; <sup>2</sup>Department of Computer Science, University of Rochester
+    <sup>1</sup>Department of Electrical and Computer Engineering, University of Rochester; 
     <br>
+    <sup>2</sup>Department of Computer Science, University of Rochester
     <br>
     </br>
 
