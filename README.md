@@ -33,8 +33,8 @@
 * **[2024.10.12]** Release paper.
 
 ## 🗒 TODOs
-- [x] Release data preprocessing code.
-- [x] Release inference code.
+- [x] Release the Dataset.
+- [x] Build the Github Page.
 - [x] Release pretrained weights.
 - [x] Release training code.
 - [x] Release code about evaluation metrics.
@@ -44,8 +44,8 @@
 We recommend a python version ```>=3.9``` and cuda version ```=11.8```. It's possible to have other compatible version.
 
 ```bash
-conda create -n s2g python=3.10
-conda activate s2g
+conda create -n gtr python=3.10
+conda activate gtr
 conda install pytorch==2.1.2 torchvision==0.16.2 torchaudio==2.1.2 pytorch-cuda=11.8 -c pytorch -c nvidia
 pip install -r requirements.txt
 ```
