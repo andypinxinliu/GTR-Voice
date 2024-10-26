@@ -1,6 +1,6 @@
 <p align="center">
 
-  <h2 align="center">[Arxiv'24] Realistic-Gesture: Co-Speech Gesture Video Generation Through Context-aware Gesture Representation </h2>
+  <h2 align="center">[Interspeech'24] GTR-Voice: Articulatory Phonetics Informed Controllable Expressive Speech Synthesis </h2>
   <p align="center">
     <strong>Pinxin Liu</strong></a><sup>1</sup>
     · 
