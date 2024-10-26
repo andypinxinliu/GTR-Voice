@@ -59,14 +59,6 @@ Change into the ```styletts``` folder:
 cd ../styletts
 ```
 
-Then slice and preprocess the data:
-
-```bash
-cd data 
-python 
-cd ..
-```
-
 Run the following code to train StyleTTS stage 1
 
 ```bash
@@ -80,26 +72,19 @@ Run the following code to train StyleTTS stage 2
 ```
 
 
-### Train the Image-Warping Module
+### Train PastPitch
 Change into the ```image-warping``` folder:
 
 ```bash
-cd image-warping
+cd fastpitch
 ```
 
-Then run the following code to train the image-warping:
+Then run the following code to train fast-pitch:
 
 ```bash 
-accelerate launch run.py --config config/img-warp.yaml --mode train
+
 ```
 
-
-### Training the Edge-heatmap based Refinement Network
-Change into the ```image-refine``` folder:
-
-```bash
-cd ../image-refine
-```
 
 
 ## 🙏 Acknowledgments
