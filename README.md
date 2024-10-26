@@ -26,7 +26,7 @@
   </p>
     </p>
 <div align="center">
-  <img src="./assets/teaser.jpg" alt="GTR-Voice"></a>
+  <img src="./assets/gtr_poster.png" alt="GTR-Voice"></a>
 </div>
 
 ## 🗒 TODOs
