@@ -96,3 +96,18 @@ Our code follows several excellent repositories. We appreciate them for making t
 * [StyleTTS](https://github.com/yl4579/StyleTTS)
 * [FastPitch](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechSynthesis/FastPitch)
 
+
+## ✏️ Citing
+If you find our work useful, please consider citing:
+```BibTeX
+@inproceedings{li2024gtr,
+  title={GTR-Voice: Articulatory Phonetics Informed Controllable Expressive Speech Synthesis},
+  author={Li, Zehua Kcriss and Chen, Meiying Melissa and Zhong, Yi and Liu, Pinxin and Duan, Zhiyao},
+  booktitle={Proc. Interspeech 2024},
+  pages={1775--1779},
+  year={2024}
+}
+```
+
+
+
