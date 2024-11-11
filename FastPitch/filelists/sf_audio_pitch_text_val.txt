@@ -1,0 +1,20 @@
+wavs/com_SF_ce1282.wav|pitch/com_SF_ce1282.pt|還在紐澤西念書的matthew說。
+wavs/com_SF_ce1329.wav|pitch/com_SF_ce1329.pt|huang在週三於nvidia總部的專訪中指出。
+wavs/com_SF_ce832.wav|pitch/com_SF_ce832.pt|消費者會用android手機來存取電腦端的網路應用。
+wavs/com_SF_ce1843.wav|pitch/com_SF_ce1843.pt|hybrid的操控性也不是很好。
+wavs/com_SF_ce1350.wav|pitch/com_SF_ce1350.pt|你可以插上麥克風後對著opera說opera home。
+wavs/com_SF_ce2042.wav|pitch/com_SF_ce2042.pt|android預載的瀏覽器並不支援flash。
+wavs/com_SF_ce912.wav|pitch/com_SF_ce912.pt|大多數presale都是技術出身。
+wavs/com_SF_ce2100.wav|pitch/com_SF_ce2100.pt|微軟的internet explorer也可化身為閱讀軟體。
+wavs/com_SF_ce1519.wav|pitch/com_SF_ce1519.pt|微軟的bing打敗了雅虎？
+wavs/com_SF_ce998.wav|pitch/com_SF_ce998.pt|由於amazon不願公布銷售數據。
+wavs/com_SF_ce979.wav|pitch/com_SF_ce979.pt|流行天王michael jackson的死訊讓主要新聞網站幾乎無法招架。
+wavs/com_SF_ce1045.wav|pitch/com_SF_ce1045.pt|對照香港在今年初已經發出了三張l t e執照。
+wavs/com_SF_ce1777.wav|pitch/com_SF_ce1777.pt|samsung將在美國推出兩款android手機。
+wavs/com_SF_ce2017.wav|pitch/com_SF_ce2017.pt|設計的touch介面操作感滑順。
+wavs/com_SF_ce2251.wav|pitch/com_SF_ce2251.pt|我比較喜歡彩色的二代ipod shuffle耶。
+wavs/com_SF_ce2443.wav|pitch/com_SF_ce2443.pt|線上版office將有助於微軟穩坐雲端運算的寶座。
+wavs/com_SF_ce1664.wav|pitch/com_SF_ce1664.pt|jobs展示全新的macbook多重觸控。
+wavs/com_SF_ce2566.wav|pitch/com_SF_ce2566.pt|根據plastic logic的說法。
+wavs/com_SF_ce1376.wav|pitch/com_SF_ce1376.pt|但是如果sony ericsson或諾基亞真的推出android手機。
+wavs/com_SF_ce227.wav|pitch/com_SF_ce227.pt|本課程的講師具有稽核x o w的實務經驗。
